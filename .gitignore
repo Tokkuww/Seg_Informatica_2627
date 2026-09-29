@@ -1,14 +1,4 @@
-# Ignore all utilities and user-specific tasks in the .idea folder
-.idea/**
-# Except for these shared team settings
-!.idea/runConfigurations/
-!.idea/codeStyles/
-!.idea/scopes/
-!.idea/inspectionProfiles/
-!.idea/vcs.xml
-!.idea/misc.xml
-!.idea/encodings.xml
-!.idea/modules.xml
+
 
 # Compiled class file
 *.class
